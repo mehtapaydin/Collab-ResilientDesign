@@ -8,4 +8,4 @@ Parsons MFA Design and Technology Fall '17
 * [Prototype 4: Object Color Tracking with Openframeworks](https://drive.google.com/file/d/0B7Fr4CY_fY2Ham40bUZobGhYNEE/view?usp=sharing)
 * Prototype 5: Computer vision color tracking with Processing
     >>[Resource: Daniel Shiffman, The Coding Train / Computer Vision](https://www.youtube.com/watch?v=r0lvsMPGEoY&index=6&list=PLRqwX-V7Uu6aG2RJHErXKSWFDXU4qo_ro)
-* [Prototype 6: Blob Detection and animation control test with Processing and OpenCv](https://drive.google.com/file/d/1ybO1_zrK55x99DLDVmsGR0Xnt6hvinnb/view?usp=sharing)
+* [Prototype 6: Blob Detection and animation control test with Processing and OpenCv](https://drive.google.com/file/d/1Z0-4EFROK9zYbymxW_kgosUQWP9n20fx/view?usp=sharing)
